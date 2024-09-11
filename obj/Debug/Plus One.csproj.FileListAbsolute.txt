@@ -1,0 +1,7 @@
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Plus One\bin\Debug\Plus One.exe.config
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Plus One\bin\Debug\Plus One.exe
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Plus One\bin\Debug\Plus One.pdb
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Plus One\obj\Debug\Plus One.csproj.AssemblyReference.cache
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Plus One\obj\Debug\Plus One.csproj.CoreCompileInputs.cache
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Plus One\obj\Debug\Plus One.exe
+D:\Уни неща\Втори семестър\Приложна информатика\Приложна информатика - кодове\Plus One\obj\Debug\Plus One.pdb
